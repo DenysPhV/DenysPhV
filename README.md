@@ -12,5 +12,6 @@ Skills: REACT / NEXT / JS / REDUX / HTML / CSS
 
 - 🔭 I’m currently working on [Task-management](https://github.com/DenysPhV/Task-management).
 
-<hr/>
+#
+
 <img src="https://github-readme-stats.vercel.app/api?username=DenysPhV&show_icons=true&theme=vue" alt="DenysPhV" />
