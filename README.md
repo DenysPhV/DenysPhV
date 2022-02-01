@@ -14,11 +14,13 @@ I work for achieving result. My main goal is to study and develop technology tha
 React / React router / Next.js, Redux Toolkit, <br/>
 JavaScript, HTML5, CSS3, SASS/SCSS, Flex, CSS Grid, <br/>
 BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
+<br/>
+**Back-end**: Node.js, Express
 
 ### My pet project in working
 
 - 🔭 I’m currently working on [Task-management](https://github.com/DenysPhV/Task-management).
-- 🌱 I’m currently learning **TS, Backend with Node and Express, Vue.js, DART/Flutter**
+- 🌱 I’m currently learning **TS, Vue.js, DART/Flutter**
 - 📫 How to reach me **denys.philichkin@gmail.com**
 
 #
