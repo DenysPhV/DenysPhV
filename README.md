@@ -11,12 +11,17 @@ I work for achieving result. My main goal is to study and develop technology tha
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DenysPhV.visitor-badge&left_text=My%20Page%20Visitors)
 
-Tech Skills:
+### Tech Skills
+
+<p>
 React, React router, Redux Toolkit
 JavaScript, REST, AJAX, Webpack, Parcel, Axios
 HTML5, CSS3, SASS/SCSS, Flex, CSS Grid, BEM, Storybook (base)
 Next.js, Vercel
+</p>
+<p>
 Back-end: Node.js, Express
+</p>
 
 - 🔭 I’m currently working on [Task-management](https://github.com/DenysPhV/Task-management).
 
