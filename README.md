@@ -4,6 +4,8 @@
 
 # Excuse me. I’m updating
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DenysPhV.visitor-badge&left_text=My%20Page%20Visitors)
+
 Skills: REACT / NEXT / JS / REDUX / HTML / CSS
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
