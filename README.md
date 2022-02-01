@@ -13,11 +13,13 @@ I work for achieving result. My main goal is to study and develop technology tha
 
 ### Tech Skills
 
-React / React router / Next.js, Redux Toolkit
-JavaScript, REST, AJAX, Webpack, Parcel, Axios
-HTML5, CSS3, SASS/SCSS, Flex, CSS Grid, BEM, Storybook (base), Vercel.
+React / React router / Next.js, Redux Toolkit, <br/>
+JavaScript, HTML5, CSS3, SASS/SCSS, Flex, CSS Grid, <br/>
+BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 <br/>
 **Back-end**: Node.js, Express
+
+### My pet project in working
 
 - 🔭 I’m currently working on [Task-management](https://github.com/DenysPhV/Task-management).
 
