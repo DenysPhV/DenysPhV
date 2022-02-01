@@ -9,8 +9,6 @@ I am a front-end developer, focused on JS, React, Redux, Next, HTML5, CSS3, Node
 I work for achieving result. My main goal is to study and develop technology that will be useful for people.
 </p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DenysPhV.visitor-badge&left_text=My%20Page%20Visitors)
-
 ### Tech Skills
 
 React / React router / Next.js, Redux Toolkit, <br/>
@@ -30,3 +28,7 @@ BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 #
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenysPhV&theme=vue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+#
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DenysPhV.visitor-badge&left_text=My%20Page%20Visitors)
