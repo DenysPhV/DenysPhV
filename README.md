@@ -20,7 +20,7 @@ HTML5, CSS3, SASS/SCSS, Flex, CSS Grid, BEM, Storybook (base)
 Next.js, Vercel
 </p>
 <p>
-Back-end: Node.js, Express
+**Back-end**: Node.js, Express
 </p>
 
 - 🔭 I’m currently working on [Task-management](https://github.com/DenysPhV/Task-management).
