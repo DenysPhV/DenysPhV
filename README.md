@@ -19,8 +19,8 @@ BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 
 ### My pet project in working
 
-- 🔭 I’m currently working on [Task-management](https://github.com/DenysPhV/Task-management).
-- 🌱 I’m currently learning **TS, Vue.js, DART/Flutter**
+- 🔭 I’m currently working on [Task-management](https://github.com/DenysPhV/Task-management) and [test-full-snake](https://github.com/DenysPhV/test-full-snake).
+- 🌱 I’m currently learning **TS**
 - 📫 How to reach me: Telegram **[@DenysFV](https://t.me/DenysFV)**
 
 #
