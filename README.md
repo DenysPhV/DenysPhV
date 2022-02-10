@@ -1,7 +1,5 @@
 <!-- @format -->
 
-# Excuse me. I’m updating
-
 ### Hi there 👋, my name is Denys
 
 <p>
