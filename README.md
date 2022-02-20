@@ -25,9 +25,9 @@ BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 
 ### Team (pet) projects
 
-- [IceCream](https://github.com/DenysPhV/project_group_4)
-- [filmoteka](https://github.com/DenysPhV/project_group_2)
-- [wallet](https://github.com/DenysPhV/project_group_2-front)
+- [IceCream](https://github.com/DenysPhV/project_group_4)-TL-
+- [filmoteka](https://github.com/DenysPhV/project_group_2)-TL-
+- [wallet](https://github.com/DenysPhV/project_group_2-front)-TL-
 
 ### Single (pet) projects
 
