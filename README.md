@@ -15,11 +15,17 @@ BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 <br/>
 **Back-end**: Node.js, Express
 
+## what I'm doing
+
+- 🌱 I’m currently learning **TS**
+
+## how to reach me
+
+- 📫 How to reach me Telegram **[@DenysFV](https://t.me/DenysFV)** or Linkedin **[Denys Filichkin](linkedin.com/in/denys-filichkin-30483390)**
+
 ## My pet project in working
 
 - 🔭 I’m currently working on [Task-management](https://github.com/DenysPhV/Task-management) and [test-full-snake](https://github.com/DenysPhV/test-full-snake).
-- 🌱 I’m currently learning **TS**
-- 📫 How to reach me Telegram **[@DenysFV](https://t.me/DenysFV)** or Linkedin **[Denys Filichkin](linkedin.com/in/denys-filichkin-30483390)**
 
 ## My pet projects
 
