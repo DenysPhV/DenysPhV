@@ -25,7 +25,7 @@ BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 
 ## My pet project in working
 
-- 🔭 I’m currently working on [Task-management](https://github.com/DenysPhV/Task-management) and [test-full-snake](https://github.com/DenysPhV/test-full-snake).
+- 🔭 I’m currently working on [test-full-snake](https://github.com/DenysPhV/test-full-snake).
 
 ## My pet projects
 
