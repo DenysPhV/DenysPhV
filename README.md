@@ -17,7 +17,7 @@ BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 
 ## what I'm doing
 
-- 🌱 I’m currently learning **TS**
+- 🌱 I’m currently learning **Python**
 
 ## how to reach me
 
