@@ -45,7 +45,6 @@ BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 ### Start Up and tests tasks
 
 - [usercard](https://github.com/DenysPhV/USERCARD)
-- [snake](https://github.com/DenysPhV/test-full-snake)
 - [random-password](https://github.com/DenysPhV/random-password)
 
 #
