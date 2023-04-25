@@ -3,7 +3,7 @@
 ## Hi there 👋, my name is Denys
 
 <p>
-I am an enthusiast developer, focused on JS, React, Redux, Next, HTML5, CSS3, NodeJS. My level English is elementary, which I always improve it. I am looking for remote work, currently I`m working a freelancer. The things that are important for me are putting the skills I`ve acquired in practice, developing new skills and improvement myself.
+I am an enthusiast developer. I`m working a freelancer. The things that are important for me are putting the skills I`ve acquired in practice, developing new skills and improvement myself.
 I work for achieving result. My main goal is to study and develop technology that will be useful for people.
 </p>
 
