@@ -1,6 +1,6 @@
 <!-- @format -->
 
-## Hi there 👋, my name is Denys
+## Hi there 👋
 
 <p>
 I am an enthusiast developer. I`m working a freelancer. The things that are important for me are putting the skills I`ve acquired in practice, developing new skills and improvement myself.
