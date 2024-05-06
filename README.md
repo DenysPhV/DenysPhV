@@ -3,49 +3,45 @@
 ## Hi there 👋
 
 <p>
-I am an enthusiast developer. I`m working a freelancer. The things that are important for me are putting the skills I`ve acquired in practice, developing new skills and improvement myself.
+I am an enthusiast developer. The things that are important for me are putting the skills I`ve acquired in practice, developing new skills and improvement myself.
 I work for achieving result. My main goal is to study and develop technology that will be useful for people.
 </p>
 
 ## Tech Skills
+**Dev**
+Python / Docker / FastAPI / Graph API / Selenium / Seleniumbase, <br />
+Facebook API / Discord / Telegram
 
+**Front-end**
 React / React router / Next.js, Redux Toolkit, <br/>
 JavaScript, HTML5, CSS3, SASS/SCSS, Flex, CSS Grid, <br/>
 BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 <br/>
+
 **Back-end**: Node.js, Express
 
 ## what I'm doing
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Blockcaine**
 
 ## how to reach me
 
-- 📫 How to reach me Telegram **[@DenysFV](https://t.me/DenysFV)** or Linkedin **[Denys Filichkin](linkedin.com/in/denys-filichkin-30483390)**
+- 📫 How to reach me Telegram **[@DenysFV](https://t.me/DenysFV)**, Linkedin **[Denys Filichkin](linkedin.com/in/denys-filichkin-30483390)** and Discord **[denys_f](https://discord.com/channels/@me)**
 
-## My pet project in working
+## My project in working
 
-- 🔭 I’m not working on no one project.
+- 🔭 I’m working ones project.
+- [scrapper_bot](https://github.com/DenysPhV/scrapper_bot)
 
 ## My pet projects
 
-### Team (pet) projects
-
-- [IceCream](https://github.com/DenysPhV/project_group_4) -TL-
-- [filmoteka](https://github.com/DenysPhV/project_group_2) -TL-
-- [wallet](https://github.com/DenysPhV/project_group_2-front) -TL-
-
-### Single (pet) projects
-
-- [webstudio](https://github.com/DenysPhV/goit-markup-hw-08)
-- [feedback](https://github.com/DenysPhV/goit-react-hw-04-hooks-feedback)
-- [gallery](https://github.com/DenysPhV/goit-react-hw-04-hooks-images)
-- [movies](https://github.com/DenysPhV/goit-react-hw-04-movies)
+- [usercard](https://github.com/DenysPhV/USERCARD)
+- [random-password](https://github.com/DenysPhV/random-password)
+- [scrapper_bot](https://github.com/DenysPhV/scrapper_bot)
 
 ### Start Up and tests tasks
 
-- [usercard](https://github.com/DenysPhV/USERCARD)
-- [random-password](https://github.com/DenysPhV/random-password)
+- [Challenge-day](https://github.com/Challenge-day)
 
 
 
