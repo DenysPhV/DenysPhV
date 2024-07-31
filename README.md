@@ -27,6 +27,7 @@ BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 ## how to reach me
 
 - 📫 How to reach me Telegram **[@DenysFV](https://t.me/DenysFV)**, Linkedin **[Denys Filichkin](linkedin.com/in/denys-filichkin-30483390)** and Discord **[denys_f](https://discord.com/channels/@me)**
+- and here **[@denys.philichkin](https://gitlab.com/denys.philichkin)** is GitLab
 
 ## My project in working
 
