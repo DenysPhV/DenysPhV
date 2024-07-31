@@ -22,7 +22,7 @@ BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 
 ## what I'm doing
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Blockchain** and **DevOps** 
 
 ## how to reach me
 
