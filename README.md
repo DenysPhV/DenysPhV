@@ -32,7 +32,7 @@ BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 ## My project in working
 
 - 🔭 I’m working ones project.
-- [scrapper_bot](https://github.com/DenysPhV/scrapper_bot)
+- [Challenge-day](https://github.com/Challenge-day)
 
 ## My pet projects
 
@@ -43,8 +43,6 @@ BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
 ### Start Up and tests tasks
 
 - [Challenge-day](https://github.com/Challenge-day)
-
-
 
 #
 
