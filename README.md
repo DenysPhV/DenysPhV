@@ -11,7 +11,7 @@ My goal is to achieve high results in my work by integrating new technologies in
 **Dev**
 Python / Docker / FastAPI / Graph API / Selenium / Seleniumbase <br />
 PostgreSQL / MongoDB <br />
-META’s API (Messanger, WhatsUp, Instagram) / Discord / Telegram
+META’s API (Messenger, WhatsUp, Instagram) / Discord / Telegram
 Github / Gitlab <br /> 
 Lahgchain / Tensorflow / DL / ML / Open AI / Claude AI / Collaboratory / Jupyter Notebook <br />
 TVM / EVM / BTC / TON blockchain
