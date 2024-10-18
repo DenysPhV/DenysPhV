@@ -3,26 +3,27 @@
 ## Hi there 👋
 
 <p>
-I am an enthusiast developer. The things that are important for me are putting the skills I`ve acquired in practice, developing new skills and improvement myself.
-I work for achieving result. My main goal is to study and develop technology that will be useful for people.
+Innovative software engineer specializing in large language models (LLM), blockchain technologies (TON), and I began to improve in DevOps way. I am actively looking for a remote or in-office position, possible project startups that I need for professional growth. At the moment, I am engaged in projects that are both intriguing and crucial for my professional advancement. The opportunity to apply acquired skills in practice, develop new competencies, and constantly improve myself is of utmost importance to me. To apply skills in practice, develop new competencies, and continuously improve with a strong focus on delivering high-quality solutions within an Agile framework to improve user experience and project success.
+My goal is to achieve high results in my work by integrating new technologies into everyday life, improving its quality and providing value to people.
 </p>
 
 ## Tech Skills
 **Dev**
-Python / Docker / FastAPI / Graph API / Selenium / Seleniumbase, <br />
-Facebook API / Discord / Telegram
+Python / Docker / FastAPI / Graph API / Selenium / Seleniumbase <br />
+PostgreSQL / MongoDB <br />
+META’s API (Messanger, WhatsUp, Instagram) / Discord / Telegram
+Github / Gitlab <br /> 
+Lahgchain / Tensorflow / DL / ML / Open AI / Claude AI / Collaboratory / Jupyter Notebook <br />
+TVM / EVM / BTC / TON blockchain
 
-**Front-end**
-React / React router / Next.js, Redux Toolkit, <br/>
-JavaScript, HTML5, CSS3, SASS/SCSS, Flex, CSS Grid, <br/>
-BEM, REST, AJAX, Webpack, Parcel, Axios, Vercel, Storybook (base).
-<br/>
 
-**Back-end**: Node.js, Express
+**DevOps**
+Linux / AWS / Terraform / Ansible / Grafana / Prometheus <br />
+Github action / CI-CD pipeline
 
 ## what I'm doing
 
-- 🌱 I’m currently learning **DevOps** and **Blockchain**
+- 🌱 I'm always learning new things. **Blockchain** / **DevOps** / **Python**
 
 ## how to reach me
 
