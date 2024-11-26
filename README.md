@@ -49,9 +49,9 @@ Github action / CI-CD pipeline
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenysPhV&theme=vue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 #
 
-![Denys_Filichkin_cer_ITCluster](https://github.com/user-attachments/assets/77c9c6f4-d400-4688-a404-b3e1645d82cc)
-![Denys Filichkin cert](https://github.com/user-attachments/assets/11a2ea6f-c7d9-456e-84a5-1c861f6ad5be)
-![FILICHKIN_DENYS_GoIT_cert_FullStack](https://github.com/user-attachments/assets/5ada3c89-bece-45f1-9953-68ff1651e807)
+![Denys_Filichkin_cer_ITCluster](https://github.com/user-attachments/assets/77c9c6f4-d400-4688-a404-b3e1645d82cc | width=100)
+![Denys Filichkin cert](https://github.com/user-attachments/assets/11a2ea6f-c7d9-456e-84a5-1c861f6ad5be | width=100)
+![FILICHKIN_DENYS_GoIT_cert_FullStack](https://github.com/user-attachments/assets/5ada3c89-bece-45f1-9953-68ff1651e807 | width=100)
 #
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DenysPhV.visitor-badge&left_text=My%20Page%20Visitors)
