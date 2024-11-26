@@ -52,3 +52,6 @@ Github action / CI-CD pipeline
 #
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DenysPhV.visitor-badge&left_text=My%20Page%20Visitors)
+![Denys_Filichkin_cer_ITCluster](https://github.com/user-attachments/assets/77c9c6f4-d400-4688-a404-b3e1645d82cc)
+![Denys Filichkin cert](https://github.com/user-attachments/assets/11a2ea6f-c7d9-456e-84a5-1c861f6ad5be)
+![FILICHKIN_DENYS_GoIT_cert_FullStack](https://github.com/user-attachments/assets/5ada3c89-bece-45f1-9953-68ff1651e807)
