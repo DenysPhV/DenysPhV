@@ -27,8 +27,9 @@ Github action / CI-CD pipeline
 
 ## how to reach me
 
-- 📫 How to reach me Telegram **[@DenysFV](https://t.me/DenysFV)**, Linkedin **[Denys Filichkin](linkedin.com/in/denys-filichkin-30483390)** and Discord **[denys_f](https://discord.com/channels/@me)**
-- and here **[@denys.philichkin](https://gitlab.com/denys.philichkin)** is GitLab
+- 📫 How to reach me Telegram **[@DenysFV](https://t.me/DenysFV)**, Linkedin **[Denys Filichkin](linkedin.com/in/denys-filichkin-30483390)**, Discord **[denys_f](https://discord.com/channels/@me)**
+- I'm here **[@denys.philichkin](https://gitlab.com/denys.philichkin)** is GitLab
+- UpWork **[Denys F](https://www.upwork.com/freelancers/~0120ef95e827868713?mp_source=share)**
 
 ## My project in working
 
