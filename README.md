@@ -3,8 +3,10 @@
 ## Hi there 👋
 
 <p>
-Innovative software engineer specializing in large language models (LLM), blockchain technologies (TON), and I began to improve in DevOps way. I am actively looking for a remote or in-office position, possible project startups that I need for professional growth. At the moment, I am engaged in projects that are both intriguing and crucial for my professional advancement. The opportunity to apply acquired skills in practice, develop new competencies, and constantly improve myself is of utmost importance to me. To apply skills in practice, develop new competencies, and continuously improve with a strong focus on delivering high-quality solutions within an Agile framework to improve user experience and project success.
-My goal is to achieve high results in my work by integrating new technologies into everyday life, improving its quality and providing value to people.
+An innovative DevOps engineer specializing in Python development (1 year of experience) looking to transition into a DevOps role. I am actively seeking a remote or in-office position and potential startup projects that will support my professional growth.
+</p>
+<p>
+Currently, I am engaged in projects that are both challenging and essential to my career development. My primary focus is on applying my skills in real-world scenarios, acquiring new competencies, and continuously improving. I am committed to delivering high-quality solutions within an Agile framework to enhance user experience and drive project success.
 </p>
 
 ## Tech Skills
