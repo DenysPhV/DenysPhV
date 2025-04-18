@@ -55,9 +55,9 @@ Github action / CI-CD pipeline
 <img src="https://github.com/user-attachments/assets/77c9c6f4-d400-4688-a404-b3e1645d82cc" width="100"/>
 <img src="https://github.com/user-attachments/assets/11a2ea6f-c7d9-456e-84a5-1c861f6ad5be" width="100"/>
 <img src="https://github.com/user-attachments/assets/5ada3c89-bece-45f1-9953-68ff1651e807" width="100"/>
-<img src="https://github.com/user-attachments/assets/d8882638-db36-48ec-9e08-bb953273cc75" width="100"/>
+<img src="https://github.com/user-attachments/assets/e2c8ecf1-a4c1-4f1a-b7fc-81bbf32de38a" width="100"/>
 
-#
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DenysPhV.visitor-badge&left_text=My%20Page%20Visitors)
 
 
