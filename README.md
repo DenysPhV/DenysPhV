@@ -11,7 +11,7 @@ Currently, I am engaged in projects that are both challenging and essential to m
 
 ## Tech Skills
 **Dev**
-Python / Docker / FastAPI / Graph API / Selenium / Seleniumbase <br />
+Python / Docker / FastAPI / Graph API / Selenium / Seleniumbase / Pytest <br />
 PostgreSQL / MongoDB <br />
 META’s API (Messenger, WhatsUp, Instagram) / Discord / Telegram
 Github / Gitlab <br /> 
@@ -20,12 +20,14 @@ TVM / EVM / BTC / TON blockchain
 
 
 **DevOps**
-Linux / AWS / Terraform / Ansible / Grafana / Prometheus <br />
-Github action / CI-CD pipeline
+Github // Gitlab // PostgreSQL // MongoDB // Docker <br />
+Linux/Windows // bash/PowerShell // AWS/GCP/AZURE // Terraform/Pulumi // Ansible // Grafana // Prometheus // Github action/Gitlab CI-CD/Jenkins <br />
+SCRUM // Agile
+
 
 ## what I'm doing
 
-- 🌱 I'm always learning new things. **Blockchain** / **DevOps** / **Python**
+- 🌱 I'm always learning new things. **DevOps** / **Python**
 
 ## how to reach me
 
