@@ -52,6 +52,7 @@ SCRUM // Agile
 #
 
 ## My achivments
+<img src="https://github.com/user-attachments/assets/cf75f765-508f-4c8f-a407-679a16d89375" width="100"/>
 <img src="https://github.com/user-attachments/assets/9d5afa12-a8fa-4b56-8dc3-f8ba0e9124dd" width="100"/>
 <img src="https://github.com/user-attachments/assets/e2c8ecf1-a4c1-4f1a-b7fc-81bbf32de38a" width="100"/>
 <img src="https://github.com/user-attachments/assets/77c9c6f4-d400-4688-a404-b3e1645d82cc" width="100"/>
