@@ -51,11 +51,11 @@ SCRUM // Agile
 - [Challenge-day](https://github.com/Challenge-day)
 
 ## My achivments
-<img src="https://github.com/user-attachments/assets/4bdc897e-5630-4038-afc2-4cd91721092c" width="100"/>
-<img src="https://github.com/user-attachments/assets/cf75f765-508f-4c8f-a407-679a16d89375" width="100"/>
-<img src="https://github.com/user-attachments/assets/9d5afa12-a8fa-4b56-8dc3-f8ba0e9124dd" width="100"/>
-<img src="https://github.com/user-attachments/assets/e2c8ecf1-a4c1-4f1a-b7fc-81bbf32de38a" width="100"/>
-<img src="https://github.com/user-attachments/assets/77c9c6f4-d400-4688-a404-b3e1645d82cc" width="100"/>
+<img src="https://github.com/user-attachments/assets/4bdc897e-5630-4038-afc2-4cd91721092c" width="150"/>
+<img src="https://github.com/user-attachments/assets/cf75f765-508f-4c8f-a407-679a16d89375" width="150"/>
+<img src="https://github.com/user-attachments/assets/9d5afa12-a8fa-4b56-8dc3-f8ba0e9124dd" width="150"/>
+<img src="https://github.com/user-attachments/assets/e2c8ecf1-a4c1-4f1a-b7fc-81bbf32de38a" width="150"/>
+<img src="https://github.com/user-attachments/assets/77c9c6f4-d400-4688-a404-b3e1645d82cc" width="150"/>
 <img src="https://github.com/user-attachments/assets/11a2ea6f-c7d9-456e-84a5-1c861f6ad5be" width="100"/>
 <img src="https://github.com/user-attachments/assets/5ada3c89-bece-45f1-9953-68ff1651e807" width="100"/>
 
