@@ -49,9 +49,9 @@ SCRUM // Agile
 ### Start Up and tests tasks
 
 - [Challenge-day](https://github.com/Challenge-day)
-#
 
 ## My achivments
+<img src="https://github.com/user-attachments/assets/4bdc897e-5630-4038-afc2-4cd91721092c" width="100"/>
 <img src="https://github.com/user-attachments/assets/cf75f765-508f-4c8f-a407-679a16d89375" width="100"/>
 <img src="https://github.com/user-attachments/assets/9d5afa12-a8fa-4b56-8dc3-f8ba0e9124dd" width="100"/>
 <img src="https://github.com/user-attachments/assets/e2c8ecf1-a4c1-4f1a-b7fc-81bbf32de38a" width="100"/>
