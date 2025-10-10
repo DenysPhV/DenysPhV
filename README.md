@@ -62,7 +62,8 @@ SCRUM // Agile
 #
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenysPhV&theme=vue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 #
-[visitor badge](https://visitor-badge.glitch.me/badge?page_id=DenysPhV.visitor-badge&left_text=My%20Page%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DenysPhV.visitor-badge&left_text=My%20Page%20Visitors)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
 
