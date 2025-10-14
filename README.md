@@ -60,7 +60,7 @@ SCRUM // Agile
 <img src="https://github.com/user-attachments/assets/5ada3c89-bece-45f1-9953-68ff1651e807" width="100"/>
 
 #
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenysPhV&theme=vue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 #
 ![](https://komarev.com/ghpvc/?username=DenysPhV&color=blueviolet)
 
