@@ -13,7 +13,7 @@ Currently, I am engaged in projects that are both challenging and essential to m
 **Dev**
 Python / Docker / FastAPI / Graph API / Selenium / Seleniumbase / Pytest <br />
 PostgreSQL / MongoDB <br />
-META’s API (Messenger, WhatsUp, Instagram) / Discord / Telegram
+META’s API (Messenger, WhatsApp, Instagram) / Discord / Telegram
 Github / Gitlab <br /> 
 Lahgchain / Tensorflow / DL / ML / Open AI / Claude AI / Collaboratory / Jupyter Notebook <br />
 TVM / EVM / BTC / TON blockchain
@@ -35,9 +35,9 @@ SCRUM // Agile
 - I'm here **[@denys.philichkin](https://gitlab.com/denys.philichkin)** is GitLab
 - UpWork **[Denys F](https://www.upwork.com/freelancers/~0120ef95e827868713?mp_source=share)**
 
-## My project in working
+## My project is working
 
-- 🔭 I’m working ones project.
+- 🔭 I’m working on a project.
 - [Challenge-day](https://github.com/Challenge-day)
 
 ## My pet projects
@@ -46,11 +46,11 @@ SCRUM // Agile
 - [random-password](https://github.com/DenysPhV/random-password)
 - [scrapper_bot](https://github.com/DenysPhV/scrapper_bot)
 
-### Start Up and tests tasks
+### Start Up and test tasks
 
 - [Challenge-day](https://github.com/Challenge-day)
 
-## My achivments
+## My achievements
 <img src="https://github.com/user-attachments/assets/4bdc897e-5630-4038-afc2-4cd91721092c" width="150"/>
 <img src="https://github.com/user-attachments/assets/cf75f765-508f-4c8f-a407-679a16d89375" width="150"/>
 <img src="https://github.com/user-attachments/assets/9d5afa12-a8fa-4b56-8dc3-f8ba0e9124dd" width="150"/>
