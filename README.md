@@ -27,7 +27,7 @@ SCRUM // Agile
 
 ## what I'm doing
 
-- 🌱 I'm always learning new things. **DevOps** / **Python**
+- 🌱 I'm always learning new things. **DevOps** / **Python** / **C/C++** / **ABAP**
 
 ## how to reach me
 
@@ -63,6 +63,8 @@ SCRUM // Agile
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 #
 ![](https://komarev.com/ghpvc/?username=DenysPhV&color=blueviolet)
+
+[![Top GitHub Users](https://github.com/gayanvoice/DenysPhV/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/DenysPhV/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 
 
