@@ -60,11 +60,10 @@ SCRUM // Agile
 <img src="https://github.com/user-attachments/assets/5ada3c89-bece-45f1-9953-68ff1651e807" width="100"/>
 
 #
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenysPhV&theme=merko&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 #
 ![](https://komarev.com/ghpvc/?username=DenysPhV&color=blueviolet)
 
-[![Top GitHub Users](https://github.com/gayanvoice/DenysPhV/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/DenysPhV/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 
 
