@@ -61,7 +61,7 @@ SCRUM // Agile
 <img src="https://github.com/user-attachments/assets/5ada3c89-bece-45f1-9953-68ff1651e807" width="100"/>
 
 #
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenysPhV&theme=merko&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenysPhV&theme=hacker&hide_border=true&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
 
 
 
