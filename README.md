@@ -1,5 +1,6 @@
 <!-- @format -->
-
+![](https://komarev.com/ghpvc/?username=DenysPhV&color=blueviolet)
+#
 ## Hi there 👋
 
 <p>
@@ -61,11 +62,11 @@ SCRUM // Agile
 
 #
 [![GitHub Streak](https://streak-stats.demolab.com?user=DenysPhV&theme=merko&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+
 #
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenysPhV&theme=merko&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
-#
-![](https://komarev.com/ghpvc/?username=DenysPhV&color=blueviolet)
 
 
 
