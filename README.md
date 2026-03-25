@@ -43,7 +43,7 @@ SCRUM // Agile
 
 ## My pet projects
 
-- [usercard](https://github.com/DenysPhV/USERCARD)
+- [VectaSafe](https://github.com/DenysPhV/vectasafe)
 - [random-password](https://github.com/DenysPhV/random-password)
 - [scrapper_bot](https://github.com/DenysPhV/scrapper_bot)
 
